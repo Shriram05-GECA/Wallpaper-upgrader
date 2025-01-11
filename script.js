@@ -1,5 +1,5 @@
 // Set the raw GitHub URL of the image
-const imageUrl = "https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path-to-image>.jpg";
+const imageUrl = "https://raw.githubusercontent.com/Shriram05-GECA/Wallpaper-upgrader/images/wallpaper1.jpeg";
 
 // Get the download button element
 const downloadButton = document.getElementById("downloadButton");
